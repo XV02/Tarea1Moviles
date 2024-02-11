@@ -1,16 +1,26 @@
-# tarea_1
+# Tarea 1 | Conociendo los Scaffold y widgets mas comunes 
 
-A new Flutter project.
+- Scaffold
+- Widgets (Row, Column, Text, Icon, Icon Button, Toast)
+- Stateful and Stateless applications
 
-## Getting Started
+## Lo que me costo mas trabajo
 
-This project is a starting point for a Flutter application.
+- Trasnformar la aplicación inicial Stateless a Stateful
+- Ajustar el espaciado de todos los elementos para que se pudieran visualizar en pantalla sin overlaping.
 
-A few resources to get you started if this is your first Flutter project:
+## Lo que aprendí
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Stateful applications
+- Uso de widgets
+- Diseño básico de un layout
+- Propiedades de los widgets para modificarlos y ajustarlos
+- Espaciado
+- Margin y Padding de los elementos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots de la app
+![imagen](https://github.com/XV02/Tarea1Moviles/assets/29586921/ed6eb509-e718-4373-9fac-e0f28c1d6c6f)
+![imagen](https://github.com/XV02/Tarea1Moviles/assets/29586921/e60f7e97-2d2e-438a-a63f-64769cc68ddc)
+
+
+
