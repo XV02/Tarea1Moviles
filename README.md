@@ -20,6 +20,7 @@
 
 ## Screenshots de la app
 ![imagen](https://github.com/XV02/Tarea1Moviles/assets/29586921/ed6eb509-e718-4373-9fac-e0f28c1d6c6f)
+
 ![imagen](https://github.com/XV02/Tarea1Moviles/assets/29586921/e60f7e97-2d2e-438a-a63f-64769cc68ddc)
 
 
